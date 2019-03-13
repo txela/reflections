@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local
+  
+     When you are planning to share your work, or transfering files form one device to antoher.
